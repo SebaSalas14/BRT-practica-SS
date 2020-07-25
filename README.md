@@ -1,4 +1,5 @@
-# Titulo 
+# PASOS DE INSTALACIÓN
+#ejecute el comando npn install para hacer funcionar la pagina.
 Este es un proyecto de busqueda de restoranes. POR FAVOR NO ME ROBEN!
 
 
